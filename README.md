@@ -6,7 +6,7 @@ Internship projects file: Link, Dataset and Code.
 
 LinkedIn Post: [Offer Letter](https://www.linkedin.com/posts/hitesh-arora-luke_data-science-intern-offer-letter-activity-7113928682741653504-sSfo?utm_source=share&utm_medium=member_desktop)
 
-Internship Project:
+Internship Project: [Task list](https://www.canva.com/design/DAFpRxy47kU/w9nxlJ4_CSLwekIRa0ttbg/view?utm_content=DAFpRxy47kU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 * Task 1- Name (Github link)
 * Task 2- Name (Github link)
 * Task 3- Name (Github link)

@@ -8,6 +8,7 @@ LinkedIn Post: [Offer Letter](https://www.linkedin.com/posts/hitesh-arora-luke_d
 
 Internship Project: [Task list](https://www.canva.com/design/DAFpRxy47kU/w9nxlJ4_CSLwekIRa0ttbg/view?utm_content=DAFpRxy47kU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 * Task 1- Super Store Dashboard [Tableau](https://public.tableau.com/app/profile/hitesh.arora/viz/SuperStoreDashboard_16965504954910/DashboardSales)
+  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_dashboard-datavisualization-tableau-activity-7120646738314432512-xBBp?utm_source=share&utm_medium=member_desktop)
 * Task 2- Name (Github link)
 * Task 3- Name (Github link)
 * Task 4- Name (Github link)
@@ -22,6 +23,7 @@ LinkedIn Post: [Offer Letter](https://www.linkedin.com/posts/hitesh-arora-luke_d
 
 Internship Project:
 * Task 1- Super Store Dashboard [Tableau](https://public.tableau.com/app/profile/hitesh.arora/viz/SuperStoreDashboard_16965504954910/DashboardSales)
+  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_dashboard-datavisualization-tableau-activity-7120645028862935041-wW3e?utm_source=share&utm_medium=member_desktop)
 * Task 2- Name (Github link)
 * Task 3- Name (Github link)
 * Task 4- Name (Github link)

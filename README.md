@@ -23,8 +23,9 @@ LinkedIn Post: [Offer Letter](https://www.linkedin.com/posts/hitesh-arora-luke_d
 
 Internship Project:
 * Task 1- Super Store Dashboard [Tableau](https://public.tableau.com/app/profile/hitesh.arora/viz/SuperStoreDashboard_16965504954910/DashboardSales)
-  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_dashboard-datavisualization-tableau-activity-7120645028862935041-wW3e?utm_source=share&utm_medium=member_desktop)
-* Task 2- Name (Github link)
+  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_task-gripoct23-dashboard-activity-7120646738314432512-Yt3Y?utm_source=share&utm_medium=member_desktop)
+* Task 2- Titanic [Kaggle](https://www.kaggle.com/code/bcscuwe1/titanic-step-by-step/notebook)
+  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_task-gripoct23-task-activity-7121185356057653248-7H7Y?utm_source=share&utm_medium=member_desktop)
 * Task 3- Name (Github link)
 * Task 4- Name (Github link)
 

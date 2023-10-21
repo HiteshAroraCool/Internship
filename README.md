@@ -1,5 +1,10 @@
 # Internship
 Internship projects file: Link, Dataset and Code.
+Try Task: 
+1. https://github.com/Skar0/fire-detection
+2. http://vision.stanford.edu/aditya86/ImageNetDogs/main.html
+3. A* Algorithm
+4. Crunchbase: Sql, python
 
 ## Prodigy Infotech - Data Science Internship
 1-October to 31-October

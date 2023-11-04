@@ -9,14 +9,14 @@ Try Task:
 ## Prodigy Infotech - Data Science Internship
 1-October to 31-October
 
-LinkedIn Post: [Offer Letter](https://www.linkedin.com/posts/hitesh-arora-luke_data-science-intern-offer-letter-activity-7113928682741653504-sSfo?utm_source=share&utm_medium=member_desktop)
+Offer Letter: [LinkedIn Post](https://www.linkedin.com/posts/hitesh-arora-luke_data-science-intern-offer-letter-activity-7113928682741653504-sSfo?utm_source=share&utm_medium=member_desktop)
 
 Internship Project: [Task list](https://www.canva.com/design/DAFpRxy47kU/w9nxlJ4_CSLwekIRa0ttbg/view?utm_content=DAFpRxy47kU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 * Task 1- Super Store Dashboard [Tableau](https://public.tableau.com/app/profile/hitesh.arora/viz/SuperStoreDashboard_16965504954910/DashboardSales)
-  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_dashboard-datavisualization-tableau-activity-7120646738314432512-xBBp?utm_source=share&utm_medium=member_desktop)
-* Task 2- Name (Github link)
-* Task 3- Name (Github link)
-* Task 4- Name (Github link)
+  [LinkedIn post](https://www.linkedin.com/posts/hitesh-arora-luke_superstore-dashboard-activity-7126605860578967552-ArjZ?utm_source=share&utm_medium=member_desktop) [Github](https://github.com/HiteshAroraCool/PRODIGY_DS_01)
+* Task 2- Titanic Survival Prediction [Kaggle](https://www.kaggle.com/code/bcscuwe1/titanic-step-by-step) [LinkedIn](https://www.linkedin.com/posts/hitesh-arora-luke_task2-datascience-machinelearning-activity-7126613499635544064-0J03?utm_source=share&utm_medium=member_desktop) [Github](https://github.com/HiteshAroraCool/PRODIGY_DS_02)
+* Task 3- Customer Sales Dashboard [Tableau](https://public.tableau.com/app/profile/hitesh.arora/viz/CustomerKPIDashboard_16988822670090/Dashboard1) [LinkedIn](https://www.linkedin.com/posts/hitesh-arora-luke_customer-kpi-dashboard-activity-7126615953093632000-jPcE?utm_source=share&utm_medium=member_desktop) [Github](https://github.com/HiteshAroraCool/PRODIGY_DS_03)
+* Task 4- Binary Prediction of Smoker Status using Bio-Signals [Kaggle](https://www.kaggle.com/code/bcscuwe1/binary-prediction-of-smoker-status-using-bio-signa) [LinkedIn](https://www.linkedin.com/posts/hitesh-arora-luke_binary-prediction-of-smoker-status-using-activity-7126617237867614208-Rsvw?utm_source=share&utm_medium=member_desktop) [Github](https://github.com/HiteshAroraCool/PRODIGY_DS_04)
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Internship Project: [Task list](https://www.canva.com/design/DAFpRxy47kU/w9nxlJ4
 ## The Sparks Foundation (TSF)-Internship
 1-October to 31-October
 
-LinkedIn Post: [Offer Letter](https://www.linkedin.com/posts/hitesh-arora-luke_datascience-businessanalytics-internship-activity-7113941776272437248-r80i?utm_source=share&utm_medium=member_desktop)
+Offer Letter: [LinkedIn Post](https://www.linkedin.com/posts/hitesh-arora-luke_datascience-businessanalytics-internship-activity-7113941776272437248-r80i?utm_source=share&utm_medium=member_desktop)
 
 Internship Project:
 * Task 1- Super Store Dashboard [Tableau](https://public.tableau.com/app/profile/hitesh.arora/viz/SuperStoreDashboard_16965504954910/DashboardSales)

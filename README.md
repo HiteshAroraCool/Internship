@@ -55,7 +55,7 @@ Comment on Project:
 18. https://www.linkedin.com/feed/update/urn:li:ugcPost:7120884896402743296?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7120884896402743296%2C7121079689401577474%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287121079689401577474%2Curn%3Ali%3AugcPost%3A7120884896402743296%29
 19. https://www.linkedin.com/feed/update/urn:li:ugcPost:7120751975549349889?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7120751975549349889%2C7120819596042940417%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287120819596042940417%2Curn%3Ali%3AugcPost%3A7120751975549349889%29
 20. https://www.linkedin.com/feed/update/urn:li:ugcPost:7118843324257452032?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7118843324257452032%2C7120652923902078976%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287120652923902078976%2Curn%3Ali%3AugcPost%3A7118843324257452032%29
-21. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Internsavy - Data Science Internship [Github repository Link: ](https://github.com/HiteshAroraCool/internsavy-internship)
